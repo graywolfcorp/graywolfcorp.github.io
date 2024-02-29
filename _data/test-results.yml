@@ -1,7 +1,7 @@
 tests:
 - name: GWC.Blazor.Tests.E2E.AboutPageTests.zip
-  size: 809794
-  date: 2024-02-29 15:50
+  size: 850843
+  date: 2024-02-29 17:00
 - name: GWC.Blazor.Tests.E2E.NavigationLinkTests.zip
-  size: 3783024
-  date: 2024-02-29 15:50
+  size: 5581355
+  date: 2024-02-29 17:00
